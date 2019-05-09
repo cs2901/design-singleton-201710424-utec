@@ -43,3 +43,7 @@ public class Singleton {
 ## Validación
 
 Para verificar que funciona correctamente se creó Test.java, al correrlo se verificara por cada hilo la creación del objeto. 
+
+## Esquemas
+
+Los esquemas se encuentra [aquí](https://github.com/cs2901/design-singleton-201710424-utec/tree/master/esquemas).
